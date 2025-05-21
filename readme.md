@@ -1,4 +1,4 @@
-Documentation - [Handover_document+Installation_Developer_guide_Test_report.pdf](documentation/Handover_document+Installation_Developer_guide_Test_report.pdf)
+Documentation - [Handover_document+Installation_Developer_guide_Test_report.pdf](https://raw.githubusercontent.com/bishal-k-shah/Pristine-Web-Portfolio-1/main/documentation/Handover_document+Installation_Developer_guide_Test_report.pdf)
 
 ## Walkthrough Video
 [![Pristine Web](https://img.youtube.com/vi/8achnLn3g2M/0.jpg)](http://www.youtube.com/watch?v=8achnLn3g2M "Pristine Web")
